@@ -50,15 +50,6 @@
 
 ---
 
-<h3 align="center">📈 Mis Estadísticas</h3>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
 ### ⚡ Sobre mí
 
 - 🌱 Profundizando en **arquitecturas escalables**, manejo de datos geográficos y optimización de rendimiento.
